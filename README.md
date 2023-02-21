@@ -1,1 +1,3 @@
-## Consuming the Graphql API from -> [Test1](https://github.com/Googluu/Test1)
+## An app for movie publications
+
+This is an application to create movie posts consuming a [Graphql API](https://github.com/Googluu/Test1)
