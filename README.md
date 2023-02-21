@@ -42,3 +42,13 @@ An application built primarily with React that features:
 ## Post details
 
 ![Captura de pantalla_20230221_094810](https://user-images.githubusercontent.com/99292913/220377344-3a78c5ae-0f0f-4084-9ec6-e53ba2b5f09e.png)
+
+## Stack
+
+- JavaScript
+- Reactjs
+- React-Router-Dom
+- Apollo/Client
+- FireBase/Auth
+- Bootstrap
+- Vite
